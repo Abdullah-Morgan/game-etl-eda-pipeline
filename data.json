@@ -1,0 +1,746 @@
+{
+  "summary": {
+    "best_year": 2018,
+    "best_year_avg": 4.49,
+    "top_game_name": "Persona 5 Royal",
+    "top_game_rating": 4.75,
+    "top_game_year": 2020,
+    "total_games": 85,
+    "overall_avg_rating": 4.43
+  },
+  "yearly": [
+    {
+      "release_year": 2010,
+      "avg_rating": 4.42,
+      "total_ratings_count": 10054,
+      "game_count": 5,
+      "top_game_name": "Mass Effect 2",
+      "top_game_rating": 4.45
+    },
+    {
+      "release_year": 2011,
+      "avg_rating": 4.43,
+      "total_ratings_count": 16694,
+      "game_count": 5,
+      "top_game_name": "Portal 2",
+      "top_game_rating": 4.57
+    },
+    {
+      "release_year": 2012,
+      "avg_rating": 4.39,
+      "total_ratings_count": 9969,
+      "game_count": 5,
+      "top_game_name": "Mass Effect 3",
+      "top_game_rating": 4.4
+    },
+    {
+      "release_year": 2013,
+      "avg_rating": 4.43,
+      "total_ratings_count": 19055,
+      "game_count": 5,
+      "top_game_name": "The Last Of Us",
+      "top_game_rating": 4.54
+    },
+    {
+      "release_year": 2014,
+      "avg_rating": 4.34,
+      "total_ratings_count": 8331,
+      "game_count": 5,
+      "top_game_name": "The Last Of Us Remastered",
+      "top_game_rating": 4.69
+    },
+    {
+      "release_year": 2015,
+      "avg_rating": 4.43,
+      "total_ratings_count": 14367,
+      "game_count": 5,
+      "top_game_name": "The Witcher 3: Wild Hunt",
+      "top_game_rating": 4.64
+    },
+    {
+      "release_year": 2016,
+      "avg_rating": 4.43,
+      "total_ratings_count": 12785,
+      "game_count": 5,
+      "top_game_name": "Uncharted 4: A Thief\u2019s End",
+      "top_game_rating": 4.48
+    },
+    {
+      "release_year": 2017,
+      "avg_rating": 4.41,
+      "total_ratings_count": 12206,
+      "game_count": 5,
+      "top_game_name": "The Legend of Zelda: Breath of the Wild",
+      "top_game_rating": 4.47
+    },
+    {
+      "release_year": 2018,
+      "avg_rating": 4.49,
+      "total_ratings_count": 17781,
+      "game_count": 5,
+      "top_game_name": "Red Dead Redemption 2",
+      "top_game_rating": 4.59
+    },
+    {
+      "release_year": 2019,
+      "avg_rating": 4.4,
+      "total_ratings_count": 7916,
+      "game_count": 5,
+      "top_game_name": "Resident Evil 2",
+      "top_game_rating": 4.51
+    },
+    {
+      "release_year": 2020,
+      "avg_rating": 4.48,
+      "total_ratings_count": 7239,
+      "game_count": 5,
+      "top_game_name": "Persona 5 Royal",
+      "top_game_rating": 4.75
+    },
+    {
+      "release_year": 2021,
+      "avg_rating": 4.49,
+      "total_ratings_count": 4529,
+      "game_count": 5,
+      "top_game_name": "Disco Elysium: Final Cut",
+      "top_game_rating": 4.66
+    },
+    {
+      "release_year": 2022,
+      "avg_rating": 4.46,
+      "total_ratings_count": 3808,
+      "game_count": 5,
+      "top_game_name": "The Last of Us Part I",
+      "top_game_rating": 4.68
+    },
+    {
+      "release_year": 2023,
+      "avg_rating": 4.48,
+      "total_ratings_count": 2932,
+      "game_count": 5,
+      "top_game_name": "Cyberpunk 2077: Phantom Liberty",
+      "top_game_rating": 4.68
+    },
+    {
+      "release_year": 2024,
+      "avg_rating": 4.42,
+      "total_ratings_count": 674,
+      "game_count": 5,
+      "top_game_name": "The Last of Us Part II Remastered",
+      "top_game_rating": 4.51
+    },
+    {
+      "release_year": 2025,
+      "avg_rating": 4.39,
+      "total_ratings_count": 1449,
+      "game_count": 5,
+      "top_game_name": "Clair Obscur: Expedition 33",
+      "top_game_rating": 4.43
+    },
+    {
+      "release_year": 2026,
+      "avg_rating": 4.39,
+      "total_ratings_count": 464,
+      "game_count": 5,
+      "top_game_name": "Resident Evil 9: Requiem",
+      "top_game_rating": 4.44
+    }
+  ],
+  "games": [
+    {
+      "release_year": 2010,
+      "name": "Mass Effect 2",
+      "released": "2010-01-26",
+      "rating": 4.45,
+      "ratings_count": 3108
+    },
+    {
+      "release_year": 2010,
+      "name": "Fallout: New Vegas",
+      "released": "2010-10-19",
+      "rating": 4.43,
+      "ratings_count": 2667
+    },
+    {
+      "release_year": 2010,
+      "name": "Red Dead Redemption",
+      "released": "2010-05-18",
+      "rating": 4.41,
+      "ratings_count": 2242
+    },
+    {
+      "release_year": 2010,
+      "name": "Gothic II: Gold Edition",
+      "released": "2010-01-13",
+      "rating": 4.41,
+      "ratings_count": 449
+    },
+    {
+      "release_year": 2010,
+      "name": "Batman: Arkham Asylum Game of the Year Edition",
+      "released": "2010-03-26",
+      "rating": 4.39,
+      "ratings_count": 1588
+    },
+    {
+      "release_year": 2011,
+      "name": "Portal 2",
+      "released": "2011-04-18",
+      "rating": 4.57,
+      "ratings_count": 6155
+    },
+    {
+      "release_year": 2011,
+      "name": "The Elder Scrolls V: Skyrim",
+      "released": "2011-11-11",
+      "rating": 4.42,
+      "ratings_count": 4969
+    },
+    {
+      "release_year": 2011,
+      "name": "Batman: Arkham City",
+      "released": "2011-10-18",
+      "rating": 4.4,
+      "ratings_count": 2199
+    },
+    {
+      "release_year": 2011,
+      "name": "Dead Space 2",
+      "released": "2011-01-25",
+      "rating": 4.38,
+      "ratings_count": 1411
+    },
+    {
+      "release_year": 2011,
+      "name": "Uncharted 3: Drake's Deception",
+      "released": "2011-11-01",
+      "rating": 4.37,
+      "ratings_count": 1960
+    },
+    {
+      "release_year": 2012,
+      "name": "Mass Effect 3",
+      "released": "2012-03-05",
+      "rating": 4.4,
+      "ratings_count": 1794
+    },
+    {
+      "release_year": 2012,
+      "name": "Batman: Arkham City - Game of the Year Edition",
+      "released": "2012-09-07",
+      "rating": 4.4,
+      "ratings_count": 1478
+    },
+    {
+      "release_year": 2012,
+      "name": "Dishonored",
+      "released": "2012-09-25",
+      "rating": 4.38,
+      "ratings_count": 2762
+    },
+    {
+      "release_year": 2012,
+      "name": "Hotline Miami",
+      "released": "2012-10-22",
+      "rating": 4.38,
+      "ratings_count": 2668
+    },
+    {
+      "release_year": 2012,
+      "name": "Dark Souls: Prepare To Die Edition",
+      "released": "2012-08-23",
+      "rating": 4.37,
+      "ratings_count": 1267
+    },
+    {
+      "release_year": 2013,
+      "name": "The Last Of Us",
+      "released": "2013-06-14",
+      "rating": 4.54,
+      "ratings_count": 3426
+    },
+    {
+      "release_year": 2013,
+      "name": "Grand Theft Auto V",
+      "released": "2013-09-17",
+      "rating": 4.47,
+      "ratings_count": 7460
+    },
+    {
+      "release_year": 2013,
+      "name": "The Wolf Among Us",
+      "released": "2013-10-10",
+      "rating": 4.39,
+      "ratings_count": 2192
+    },
+    {
+      "release_year": 2013,
+      "name": "BioShock Infinite",
+      "released": "2013-03-26",
+      "rating": 4.38,
+      "ratings_count": 4190
+    },
+    {
+      "release_year": 2013,
+      "name": "Papers, Please",
+      "released": "2013-08-08",
+      "rating": 4.38,
+      "ratings_count": 1787
+    },
+    {
+      "release_year": 2014,
+      "name": "The Last Of Us Remastered",
+      "released": "2014-07-29",
+      "rating": 4.69,
+      "ratings_count": 2860
+    },
+    {
+      "release_year": 2014,
+      "name": "The Binding of Isaac: Rebirth",
+      "released": "2014-11-03",
+      "rating": 4.31,
+      "ratings_count": 1173
+    },
+    {
+      "release_year": 2014,
+      "name": "Halo: The Master Chief Collection",
+      "released": "2014-11-11",
+      "rating": 4.25,
+      "ratings_count": 1093
+    },
+    {
+      "release_year": 2014,
+      "name": "South Park: The Stick of Truth",
+      "released": "2014-03-04",
+      "rating": 4.22,
+      "ratings_count": 1727
+    },
+    {
+      "release_year": 2014,
+      "name": "Alien: Isolation",
+      "released": "2014-10-05",
+      "rating": 4.21,
+      "ratings_count": 1478
+    },
+    {
+      "release_year": 2015,
+      "name": "The Witcher 3: Wild Hunt",
+      "released": "2015-05-18",
+      "rating": 4.64,
+      "ratings_count": 7301
+    },
+    {
+      "release_year": 2015,
+      "name": "Bloodborne",
+      "released": "2015-03-24",
+      "rating": 4.41,
+      "ratings_count": 2466
+    },
+    {
+      "release_year": 2015,
+      "name": "Ori and the Blind Forest",
+      "released": "2015-03-10",
+      "rating": 4.37,
+      "ratings_count": 1541
+    },
+    {
+      "release_year": 2015,
+      "name": "Yakuza 0",
+      "released": "2015-03-12",
+      "rating": 4.36,
+      "ratings_count": 1155
+    },
+    {
+      "release_year": 2015,
+      "name": "Undertale",
+      "released": "2015-09-14",
+      "rating": 4.35,
+      "ratings_count": 1904
+    },
+    {
+      "release_year": 2016,
+      "name": "Uncharted 4: A Thief\u2019s End",
+      "released": "2016-05-10",
+      "rating": 4.48,
+      "ratings_count": 3782
+    },
+    {
+      "release_year": 2016,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "released": "2016-10-27",
+      "rating": 4.45,
+      "ratings_count": 1974
+    },
+    {
+      "release_year": 2016,
+      "name": "Ori and the Blind Forest: Definitive Edition",
+      "released": "2016-04-27",
+      "rating": 4.42,
+      "ratings_count": 1730
+    },
+    {
+      "release_year": 2016,
+      "name": "Dark Souls III",
+      "released": "2016-04-11",
+      "rating": 4.4,
+      "ratings_count": 2811
+    },
+    {
+      "release_year": 2016,
+      "name": "Stardew Valley",
+      "released": "2016-02-25",
+      "rating": 4.39,
+      "ratings_count": 2488
+    },
+    {
+      "release_year": 2017,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "released": "2017-03-03",
+      "rating": 4.47,
+      "ratings_count": 3232
+    },
+    {
+      "release_year": 2017,
+      "name": "Super Mario Odyssey",
+      "released": "2017-10-27",
+      "rating": 4.42,
+      "ratings_count": 1948
+    },
+    {
+      "release_year": 2017,
+      "name": "Hollow Knight",
+      "released": "2017-02-23",
+      "rating": 4.4,
+      "ratings_count": 2785
+    },
+    {
+      "release_year": 2017,
+      "name": "What Remains of Edith Finch",
+      "released": "2017-04-23",
+      "rating": 4.38,
+      "ratings_count": 2050
+    },
+    {
+      "release_year": 2017,
+      "name": "NieR:Automata",
+      "released": "2017-03-17",
+      "rating": 4.37,
+      "ratings_count": 2191
+    },
+    {
+      "release_year": 2018,
+      "name": "Red Dead Redemption 2",
+      "released": "2018-10-26",
+      "rating": 4.59,
+      "ratings_count": 5595
+    },
+    {
+      "release_year": 2018,
+      "name": "God of War (2018)",
+      "released": "2018-04-20",
+      "rating": 4.54,
+      "ratings_count": 5233
+    },
+    {
+      "release_year": 2018,
+      "name": "Dark Souls: Remastered",
+      "released": "2018-05-23",
+      "rating": 4.48,
+      "ratings_count": 1480
+    },
+    {
+      "release_year": 2018,
+      "name": "Marvel's Spider-Man",
+      "released": "2018-09-07",
+      "rating": 4.45,
+      "ratings_count": 3757
+    },
+    {
+      "release_year": 2018,
+      "name": "Celeste",
+      "released": "2018-01-25",
+      "rating": 4.37,
+      "ratings_count": 1716
+    },
+    {
+      "release_year": 2019,
+      "name": "Resident Evil 2",
+      "released": "2019-01-25",
+      "rating": 4.51,
+      "ratings_count": 2314
+    },
+    {
+      "release_year": 2019,
+      "name": "Katana ZERO",
+      "released": "2019-04-17",
+      "rating": 4.39,
+      "ratings_count": 1165
+    },
+    {
+      "release_year": 2019,
+      "name": "Sekiro: Shadows Die Twice",
+      "released": "2019-03-22",
+      "rating": 4.38,
+      "ratings_count": 2158
+    },
+    {
+      "release_year": 2019,
+      "name": "Disco Elysium",
+      "released": "2019-10-14",
+      "rating": 4.36,
+      "ratings_count": 1374
+    },
+    {
+      "release_year": 2019,
+      "name": "Outer Wilds",
+      "released": "2019-05-29",
+      "rating": 4.36,
+      "ratings_count": 905
+    },
+    {
+      "release_year": 2020,
+      "name": "Persona 5 Royal",
+      "released": "2020-03-31",
+      "rating": 4.75,
+      "ratings_count": 545
+    },
+    {
+      "release_year": 2020,
+      "name": "Hades",
+      "released": "2020-09-17",
+      "rating": 4.41,
+      "ratings_count": 2133
+    },
+    {
+      "release_year": 2020,
+      "name": "The Last of Us Part II",
+      "released": "2020-06-19",
+      "rating": 4.41,
+      "ratings_count": 2060
+    },
+    {
+      "release_year": 2020,
+      "name": "Ori and the Will of the Wisps",
+      "released": "2020-03-10",
+      "rating": 4.41,
+      "ratings_count": 1325
+    },
+    {
+      "release_year": 2020,
+      "name": "Ghost of Tsushima",
+      "released": "2020-07-17",
+      "rating": 4.41,
+      "ratings_count": 1176
+    },
+    {
+      "release_year": 2021,
+      "name": "Disco Elysium: Final Cut",
+      "released": "2021-03-30",
+      "rating": 4.66,
+      "ratings_count": 669
+    },
+    {
+      "release_year": 2021,
+      "name": "Mass Effect: Legendary Edition",
+      "released": "2021-05-14",
+      "rating": 4.58,
+      "ratings_count": 588
+    },
+    {
+      "release_year": 2021,
+      "name": "It Takes Two",
+      "released": "2021-03-26",
+      "rating": 4.45,
+      "ratings_count": 1770
+    },
+    {
+      "release_year": 2021,
+      "name": "Resident Evil: Village",
+      "released": "2021-05-07",
+      "rating": 4.39,
+      "ratings_count": 1080
+    },
+    {
+      "release_year": 2021,
+      "name": "Ratchet & Clank: Rift Apart",
+      "released": "2021-06-11",
+      "rating": 4.38,
+      "ratings_count": 422
+    },
+    {
+      "release_year": 2022,
+      "name": "The Last of Us Part I",
+      "released": "2022-09-02",
+      "rating": 4.68,
+      "ratings_count": 580
+    },
+    {
+      "release_year": 2022,
+      "name": "Uncharted: Legacy of Thieves Collection",
+      "released": "2022-01-28",
+      "rating": 4.46,
+      "ratings_count": 528
+    },
+    {
+      "release_year": 2022,
+      "name": "God of War: Ragnar\u00f6k",
+      "released": "2022-11-09",
+      "rating": 4.41,
+      "ratings_count": 818
+    },
+    {
+      "release_year": 2022,
+      "name": "Elden Ring",
+      "released": "2022-02-25",
+      "rating": 4.38,
+      "ratings_count": 1508
+    },
+    {
+      "release_year": 2022,
+      "name": "The Stanley Parable: Ultra Deluxe",
+      "released": "2022-04-27",
+      "rating": 4.37,
+      "ratings_count": 374
+    },
+    {
+      "release_year": 2023,
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "released": "2023-09-26",
+      "rating": 4.68,
+      "ratings_count": 485
+    },
+    {
+      "release_year": 2023,
+      "name": "Resident Evil 4",
+      "released": "2023-03-24",
+      "rating": 4.57,
+      "ratings_count": 656
+    },
+    {
+      "release_year": 2023,
+      "name": "Baldur's Gate III",
+      "released": "2023-08-03",
+      "rating": 4.42,
+      "ratings_count": 1077
+    },
+    {
+      "release_year": 2023,
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "released": "2023-05-12",
+      "rating": 4.37,
+      "ratings_count": 509
+    },
+    {
+      "release_year": 2023,
+      "name": "Cocoon",
+      "released": "2023-09-29",
+      "rating": 4.37,
+      "ratings_count": 205
+    },
+    {
+      "release_year": 2024,
+      "name": "The Last of Us Part II Remastered",
+      "released": "2024-01-19",
+      "rating": 4.51,
+      "ratings_count": 140
+    },
+    {
+      "release_year": 2024,
+      "name": "Silent Hill 2",
+      "released": "2024-10-08",
+      "rating": 4.46,
+      "ratings_count": 270
+    },
+    {
+      "release_year": 2024,
+      "name": "Elden Ring: Shadow of the Erdtree",
+      "released": "2024-06-21",
+      "rating": 4.45,
+      "ratings_count": 123
+    },
+    {
+      "release_year": 2024,
+      "name": "Persona 3 Reload",
+      "released": "2024-02-01",
+      "rating": 4.37,
+      "ratings_count": 111
+    },
+    {
+      "release_year": 2024,
+      "name": "Portal: Revolution",
+      "released": "2024-01-06",
+      "rating": 4.32,
+      "ratings_count": 30
+    },
+    {
+      "release_year": 2025,
+      "name": "Clair Obscur: Expedition 33",
+      "released": "2025-04-24",
+      "rating": 4.43,
+      "ratings_count": 520
+    },
+    {
+      "release_year": 2025,
+      "name": "Dispatch",
+      "released": "2025-10-22",
+      "rating": 4.4,
+      "ratings_count": 252
+    },
+    {
+      "release_year": 2025,
+      "name": "Split Fiction",
+      "released": "2025-03-06",
+      "rating": 4.39,
+      "ratings_count": 264
+    },
+    {
+      "release_year": 2025,
+      "name": "Hollow Knight: Silksong",
+      "released": "2025-09-04",
+      "rating": 4.37,
+      "ratings_count": 267
+    },
+    {
+      "release_year": 2025,
+      "name": "Hades II",
+      "released": "2025-09-25",
+      "rating": 4.36,
+      "ratings_count": 146
+    },
+    {
+      "release_year": 2026,
+      "name": "Resident Evil 9: Requiem",
+      "released": "2026-02-27",
+      "rating": 4.44,
+      "ratings_count": 194
+    },
+    {
+      "release_year": 2026,
+      "name": "007 First Light",
+      "released": "2026-05-27",
+      "rating": 4.41,
+      "ratings_count": 105
+    },
+    {
+      "release_year": 2026,
+      "name": "Call of Duty: Modern Warfare 4",
+      "released": "2026-10-23",
+      "rating": 4.4,
+      "ratings_count": 30
+    },
+    {
+      "release_year": 2026,
+      "name": "Mewgenics",
+      "released": "2026-02-10",
+      "rating": 4.37,
+      "ratings_count": 29
+    },
+    {
+      "release_year": 2026,
+      "name": "Pragmata",
+      "released": "2026-04-17",
+      "rating": 4.34,
+      "ratings_count": 106
+    }
+  ]
+}
